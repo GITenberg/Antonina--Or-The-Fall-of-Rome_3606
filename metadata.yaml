@@ -1,0 +1,35 @@
+_repo: Antonina--Or-The-Fall-of-Rome_3606
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: A romance of the fifth century, in which many of the scenes described
+  in the 'Decline and Fall of the Roman Empire ' are reset to suit the purpose of
+  the author. Only two historical personages are introduced into the story,- the Emperor
+  Honorius, and Alaric the Goth; and these attain only a secondary importance. Among
+  the historical incidents used are the arrival of the Goths at the gates of Rome,
+  the Famine, the last efforts of the besieged, the Treaty of Peace, the introduction
+  of the Dragon of Brass, and the collection of the ransom,- most of these accounts
+  being founded on the.
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Goths -- Fiction'
+- !lcsh 'Rome -- History -- Germanic Invasions, 3rd-6th centuries -- Fiction'
+- GITenberg
+title: Antonina; Or, The Fall of Rome
+url: http://www.gutenberg.org/ebooks/3606
