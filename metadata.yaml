@@ -1,5 +1,8 @@
 _repo: Antonina--Or-The-Fall-of-Rome_3606
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -17,6 +20,8 @@ description: A romance of the fifth century, in which many of the scenes describ
   the Famine, the last efforts of the besieged, the Treaty of Peace, the introduction
   of the Dragon of Brass, and the collection of the ransom,- most of these accounts
   being founded on the.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3606#Antonina--Or-The-Fall-of-Rome
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
 identifiers:
